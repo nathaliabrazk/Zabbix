@@ -15,6 +15,14 @@ O **Zabbix** suporta tanto "pooling" quanto "trapping". Os relatórios e estatí
 
 ---
 
+## 🌱 Origem do Zabbix
+
+**Criador:** Alexei Vladishev, que hoje atua como fundador e CEO da empresa.
+
+**Origem:** O software começou a ser desenvolvido em 1998 quando Vladishev trabalhava como administrador de sistemas em um banco e precisava automatizar tarefas de monitoramento.
+
+**Lançamento público:** O código foi aberto ao público sob a licença GPL em 2001, com a primeira versão estável (1.0) lançada em 2004.Manutenção: Atualmente, o software é desenvolvido, mantido e suportado pela Zabbix SIA, sediada em Riga, na Letônia
+
 ## 💎 Benefícios do Zabbix
 
 **Custo-benefício (Open Source):** A ferramenta é gratuita e de código aberto, sem taxas de licença por volume de uso.
