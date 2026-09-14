@@ -76,10 +76,6 @@ Ao instalar o agente em seu servidor, o software faz o monitoramento de atributo
 ## 🆕Novidades Zabbix
 **Suporte ao ClickHouse -**  ClickHouse pode ser usado como banco de dados de backend do Zabbix para armazenar o histórico de valores de item.
 
-Para detalhes de configuração e requisitos, consulte Configuração do ClickHouse. Se você quiser migrar seus dados de histórico de um banco de dados Zabbix existente (MySQL ou PostgreSQL) para o ClickHouse, consulte os scripts de migração do esquema e do histórico do ClickHouse.
-
-Este recurso também altera a forma como você define os provedores de armazenamento de histórico nos arquivos de configuração do Zabbix. Essa alteração afeta tanto as configurações do ClickHouse quanto as do Elasticsearch.
-
 **Tipo de dado JSON -** O Zabbix agora oferece suporte a JSON como um tipo de dado para valores de item.
 
 Anteriormente, valores JSON eram coletados por itens de texto e armazenados como strings com um limite de 64 KB. Agora, o Zabbix pode armazenar valores JSON nativamente com um limite de 128 MiB e também rejeitar valores JSON inválidos (por exemplo, contendo chaves sem aspas, vírgulas finais ou colchetes incompatíveis).
